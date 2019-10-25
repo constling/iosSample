@@ -1,9 +1,9 @@
 //
 //  ViewController.h
-//  iosSample
+//  test1
 //
-//  Created by 凌星 on 2019/10/25.
-//  Copyright © 2019 凌星. All rights reserved.
+//  Created by FaceRecon on 2019/10/24.
+//  Copyright © 2019 FaceRecon. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>
